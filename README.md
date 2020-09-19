@@ -1,2 +1,2 @@
-# mercedes_resale_price
-Estimating the resale price of a used Mercedes car basis the car's features
+# Resale Price of Mercedes car in UK
+Estimating the resale price in pounds of a used Mercedes car basis the car's features
